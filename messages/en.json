@@ -1,0 +1,201 @@
+{
+  "meta": {
+    "title": "Accounting Chisinau | First 10 Minutes Free",
+    "description": "Accounting for companies and LLCs in Chisinau. From 1000 MDL/month. First 10 minutes free. Response within 24h. +373 69 564 277."
+  },
+  "nav": {
+    "services": "Services",
+    "about": "About us",
+    "pricing": "Pricing",
+    "process": "Process",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "reviews": "Reviews",
+    "cta": "Free consultation"
+  },
+  "hero": {
+    "badge": "Chisinau · Moldova · 10+ years",
+    "title": "Accounting without stress.",
+    "titleAccent": "No penalties.",
+    "subtitle": "A certified team handling bookkeeping, reporting, and tax consulting for your company. First 10 minutes of consultation are free — we'll tell you exactly how we can help.",
+    "ctaForm": "Request consultation",
+    "ctaCall": "Call now",
+    "trust1": "10+ years experience",
+    "trust2": "Response in 24h",
+    "trust3": "From 1000 MDL/month",
+    "cardLabel": "Free consultation",
+    "cardFree": "First 10 min free"
+  },
+  "trust": {
+    "label": "Why companies in Moldova choose us",
+    "items": {
+      "certified": "Certified accountants",
+      "itpark": "IT Park specialists",
+      "offices": "3 offices: MD, RO, USA",
+      "confidential": "100% confidential",
+      "support": "Dedicated 24h support"
+    }
+  },
+  "whyUs": {
+    "eyebrow": "About us",
+    "title": "Your trusted accounting partner",
+    "subtitle": "For over a decade we've helped entrepreneurs in Moldova keep their finances in order — no stress, no penalties, no surprises.",
+    "imageAlt": "Professional accounting team",
+    "badge": "years experience",
+    "points": {
+      "1": { "title": "Guaranteed fast response", "desc": "We contact you within 24 hours. Usually on the same business day." },
+      "2": { "title": "Clear pricing, no surprises", "desc": "You know exactly what you pay. No hidden costs at month end." },
+      "3": { "title": "IT Park experience", "desc": "We know special tax regimes for tech companies and startups." },
+      "4": { "title": "Remote collaboration", "desc": "Digital documents, online communication — wherever you are in Moldova." },
+      "5": { "title": "Multidisciplinary team", "desc": "Accountants, tax consultants, and HR specialists under one roof." },
+      "6": { "title": "Free consultation", "desc": "First 10 minutes are free — no obligations, no pressure." }
+    }
+  },
+  "showcase": {
+    "eyebrow": "Our experience",
+    "title": "Professional accounting, real results",
+    "subtitle": "We work with hundreds of companies in Chisinau, Balti, and across Moldova.",
+    "items": {
+      "1": { "title": "Strategic consulting", "desc": "Tax planning and legal optimization for sustainable growth." },
+      "2": { "title": "Dedicated team", "desc": "A personal accountant who knows your business in detail." },
+      "3": { "title": "On-time reporting", "desc": "Zero delays, zero penalties — we monitor all deadlines." },
+      "4": { "title": "Long-term partnership", "desc": "Clients who stay with us for years — proven trust." }
+    }
+  },
+  "testimonials": {
+    "eyebrow": "Reviews",
+    "title": "What our clients say",
+    "items": {
+      "1": { "text": "Since we outsourced accounting, I no longer worry about filings. They respond quickly and explain everything clearly.", "name": "Andrei M.", "role": "LLC Director, Chisinau", "initials": "AM" },
+      "2": { "text": "As an IT Park company, we needed specialists who understand our regime. Their team knows exactly what to do.", "name": "Elena P.", "role": "Tech startup CEO", "initials": "EP" },
+      "3": { "text": "Fair price, complete services, excellent communication. I recommend them to any entrepreneur in Moldova.", "name": "Vasile C.", "role": "Entrepreneur, Balti", "initials": "VC" }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Packages",
+    "title": "Transparent pricing",
+    "subtitle": "Choose the right package. First 10 minutes of consultation are free.",
+    "month": "month",
+    "popular": "Most popular",
+    "cta": "Request quote",
+    "note": "Prices are indicative. Final offer depends on transaction volume.",
+    "plans": {
+      "starter": { "name": "Start", "desc": "For micro-enterprises", "price": "1000", "f1": "Monthly bookkeeping", "f2": "Tax reporting", "f3": "Phone support", "f4": "Up to 20 transactions/month" },
+      "business": { "name": "Business", "desc": "For active LLCs", "price": "2500", "f1": "Everything in Start +", "f2": "Payroll & HR", "f3": "1C accounting", "f4": "Dedicated accountant" },
+      "enterprise": { "name": "Enterprise", "desc": "For large companies", "price": "4500", "f1": "Everything in Business +", "f2": "Tax consulting", "f3": "IT Park / import-export", "f4": "Custom reporting" }
+    }
+  },
+  "ctaBanner": {
+    "title": "Ready to stop worrying about accounting?",
+    "subtitle": "Schedule a free 10-minute consultation. We'll tell you exactly how we can help — no obligations.",
+    "ctaForm": "Schedule consultation",
+    "ctaCall": "Call now"
+  },
+  "stats": {
+    "years": "Years experience",
+    "offices": "International offices",
+    "response": "Hours max response",
+    "price": "MDL/month from"
+  },
+  "services": {
+    "title": "Complete accounting services",
+    "subtitle": "Everything your company needs — from daily records to tax reporting.",
+    "items": {
+      "evidence": {
+        "title": "Bookkeeping",
+        "desc": "Full accounting for LLCs and sole proprietors, compliant with MD law."
+      },
+      "payroll": {
+        "title": "Payroll & HR",
+        "desc": "Salary calculations, contributions, employee reports — error-free."
+      },
+      "reporting": {
+        "title": "Tax reporting",
+        "desc": "On-time filings, no penalties. We track deadlines for you."
+      },
+      "onec": {
+        "title": "1C accounting",
+        "desc": "We work with 1C and modern systems. Clear, understandable reports."
+      },
+      "outsourcing": {
+        "title": "Full outsourcing",
+        "desc": "Outsource accounting — save time and in-house staff costs."
+      },
+      "consulting": {
+        "title": "Tax consulting",
+        "desc": "Legal optimization, clear answers to complex tax questions."
+      }
+    }
+  },
+  "process": {
+    "title": "How we work",
+    "subtitle": "Three simple steps to worry-free accounting.",
+    "steps": {
+      "1": {
+        "title": "Call or fill the form",
+        "desc": "First 10 minutes are free. Tell us about your business."
+      },
+      "2": {
+        "title": "We analyze your needs",
+        "desc": "We propose the right package and clear pricing — no surprises."
+      },
+      "3": {
+        "title": "We take over accounting",
+        "desc": "You focus on business. We keep the numbers in order."
+      }
+    }
+  },
+  "offer": {
+    "title": "First 10 minutes free",
+    "desc": "Call or write to us. Initial consultation is free — no obligations, no pressure.",
+    "cta": "Schedule consultation"
+  },
+  "form": {
+    "title": "Request free consultation",
+    "subtitle": "Fill the form — we'll contact you within 24 hours.",
+    "name": "Name",
+    "phone": "Phone",
+    "email": "Email (optional)",
+    "message": "Short message",
+    "submit": "Send request",
+    "success": "Thank you! We'll contact you within 24 hours.",
+    "error": "An error occurred. Call +373 69 564 277.",
+    "namePlaceholder": "John Smith",
+    "phonePlaceholder": "+373 ...",
+    "messagePlaceholder": "I need accounting for my LLC..."
+  },
+  "faq": {
+    "title": "Frequently asked questions",
+    "items": {
+      "1": {
+        "q": "How much do services cost?",
+        "a": "Packages start from 1000 MDL/month depending on volume. First 10 minutes of consultation are free."
+      },
+      "2": {
+        "q": "How fast will you respond?",
+        "a": "Within 24 hours of your request, usually much faster."
+      },
+      "3": {
+        "q": "Do you work with IT Park companies?",
+        "a": "Yes, we have experience with IT Park Moldova and specific tax regimes."
+      },
+      "4": {
+        "q": "Can we work remotely?",
+        "a": "Absolutely. Most of our clients collaborate remotely."
+      },
+      "5": {
+        "q": "Is my data confidential?",
+        "a": "100%. All financial information is treated as strictly confidential."
+      }
+    }
+  },
+  "footer": {
+    "tagline": "Trusted accounting in Moldova",
+    "hours": "Mon–Fri: 09:00–18:00",
+    "rights": "All rights reserved."
+  },
+  "sticky": {
+    "call": "Call"
+  },
+  "phone": "+373 69 564 277"
+}

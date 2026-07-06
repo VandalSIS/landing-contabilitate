@@ -1,0 +1,16 @@
+{
+  "name": "ContaExpert MD",
+  "short_name": "ContaExpert",
+  "description": "Contabilitate Chișinău — primele 10 minute gratuite",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0F2B46",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "meta": {
+    "title": "Contabilitate Chișinău | Primele 10 Minute Gratuite",
+    "description": "Contabilitate firmă și SRL în Chișinău. De la 1000 MDL/lună. Primele 10 minute gratuite. Răspuns în 24h. Sună +373 69 564 277."
+  },
+  "nav": {
+    "services": "Servicii",
+    "about": "Despre noi",
+    "pricing": "Prețuri",
+    "process": "Proces",
+    "faq": "Întrebări",
+    "contact": "Contact",
+    "reviews": "Recenzii",
+    "cta": "Consultație gratuită"
+  },
+  "hero": {
+    "badge": "Chișinău · Moldova · 10+ ani",
+    "title": "Contabilitate fără stres.",
+    "titleAccent": "Fără amenzi.",
+    "subtitle": "Echipă certificată care preia evidența, raportarea și consultanța fiscală pentru firma ta. Primele 10 minute de consultanță sunt gratuite — îți spunem exact cum te putem ajuta.",
+    "ctaForm": "Solicită consultație",
+    "ctaCall": "Sună acum",
+    "trust1": "10+ ani experiență",
+    "trust2": "Răspuns în 24h",
+    "trust3": "De la 1000 MDL/lună",
+    "cardLabel": "Consultație gratuită",
+    "cardFree": "Primele 10 min gratuite"
+  },
+  "trust": {
+    "label": "De ce ne aleg companiile din Moldova",
+    "items": {
+      "certified": "Contabili certificați",
+      "itpark": "Specialiști IT Park",
+      "offices": "3 birouri: MD, RO, USA",
+      "confidential": "Confidențial 100%",
+      "support": "Suport dedicat 24h"
+    }
+  },
+  "whyUs": {
+    "eyebrow": "Despre noi",
+    "title": "Partenerul tău de încredere în contabilitate",
+    "subtitle": "De peste un deceniu ajutăm antreprenorii din Moldova să-și țină finanțele în ordine — fără stres, fără amenzi, fără surprize.",
+    "imageAlt": "Echipă de contabilitate profesională",
+    "badge": "ani experiență",
+    "points": {
+      "1": { "title": "Răspuns rapid garantat", "desc": "Te contactăm în maxim 24 de ore. De obicei în aceeași zi lucrătoare." },
+      "2": { "title": "Prețuri clare, fără surprize", "desc": "Știi exact ce plătești. Fără costuri ascunse la final de lună." },
+      "3": { "title": "Experiență IT Park", "desc": "Cunoaștem regimurile fiscale speciale pentru companii tech și startup." },
+      "4": { "title": "Lucrăm la distanță", "desc": "Documente digitale, comunicare online — oriunde ești în Moldova." },
+      "5": { "title": "Echipă multidisciplinară", "desc": "Contabili, consultanți fiscali și specialiști HR sub același acoperiș." },
+      "6": { "title": "Consultanță gratuită", "desc": "Primele 10 minute sunt gratuite — fără obligații, fără presiune." }
+    }
+  },
+  "showcase": {
+    "eyebrow": "Experiența noastră",
+    "title": "Contabilitate profesională, rezultate reale",
+    "subtitle": "Lucrăm cu sute de companii din Chișinău, Bălți și din toată Moldova.",
+    "items": {
+      "1": { "title": "Consultanță strategică", "desc": "Planificare fiscală și optimizare legală pentru creștere sustenabilă." },
+      "2": { "title": "Echipă dedicată", "desc": "Contabil personal care cunoaște afacerea ta în detaliu." },
+      "3": { "title": "Raportare la timp", "desc": "Zero întârzieri, zero amenzi — monitorizăm toate termenele." },
+      "4": { "title": "Parteneriat pe termen lung", "desc": "Clienți care rămân cu noi ani de zile — încredere dovedită." }
+    }
+  },
+  "testimonials": {
+    "eyebrow": "Recenzii",
+    "title": "Ce spun clienții noștri",
+    "items": {
+      "1": { "text": "De când am externalizat contabilitatea, nu mai am grija declarațiilor. Răspund rapid și explică tot pe înțelesul meu.", "name": "Andrei M.", "role": "Director SRL, Chișinău", "initials": "AM" },
+      "2": { "text": "Ca firmă IT Park, aveam nevoie de specialiști care înțeleg regimul nostru. Echipa lor știe exact ce trebuie făcut.", "name": "Elena P.", "role": "CEO startup tech", "initials": "EP" },
+      "3": { "text": "Preț corect, servicii complete, comunicare excelentă. Recomand oricărui antreprenor din Moldova.", "name": "Vasile C.", "role": "Antreprenor, Bălți", "initials": "VC" }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Pachete",
+    "title": "Prețuri transparente",
+    "subtitle": "Alege pachetul potrivit. Primele 10 minute de consultanță sunt gratuite.",
+    "month": "lună",
+    "popular": "Cel mai popular",
+    "cta": "Solicită ofertă",
+    "note": "Prețurile sunt orientative. Oferta finală depinde de volumul operațiunilor.",
+    "plans": {
+      "starter": { "name": "Start", "desc": "Pentru microîntreprinderi", "price": "1000", "f1": "Evidență contabilă lunară", "f2": "Raportare fiscală", "f3": "Suport telefonic", "f4": "Până la 20 operațiuni/lună" },
+      "business": { "name": "Business", "desc": "Pentru SRL-uri active", "price": "2500", "f1": "Tot din Start +", "f2": "Salarizare & HR", "f3": "Contabilitate 1C", "f4": "Contabil dedicat" },
+      "enterprise": { "name": "Enterprise", "desc": "Pentru companii mari", "price": "4500", "f1": "Tot din Business +", "f2": "Consultanță fiscală", "f3": "IT Park / import-export", "f4": "Raportare personalizată" }
+    }
+  },
+  "ctaBanner": {
+    "title": "Gata să scapi de grija contabilității?",
+    "subtitle": "Programează o consultație gratuită de 10 minute. Îți spunem exact cum te putem ajuta — fără obligații.",
+    "ctaForm": "Programează consultația",
+    "ctaCall": "Sună acum"
+  },
+  "stats": {
+    "years": "Ani experiență",
+    "offices": "Birouri internaționale",
+    "response": "Ore răspuns maxim",
+    "price": "MDL/lună de la"
+  },
+  "services": {
+    "title": "Servicii de contabilitate complete",
+    "subtitle": "Tot ce are nevoie firma ta — de la evidență zilnică la raportare fiscală.",
+    "items": {
+      "evidence": {
+        "title": "Evidență contabilă",
+        "desc": "Evidență completă pentru SRL și întreprinderi individuale, conform legislației MD."
+      },
+      "payroll": {
+        "title": "Salarizare & HR",
+        "desc": "Calcul salarii, contribuții, rapoarte pentru angajați — fără erori."
+      },
+      "reporting": {
+        "title": "Raportare fiscală",
+        "desc": "Declarații la timp, fără amenzi. Monitorizăm termenele pentru tine."
+      },
+      "onec": {
+        "title": "Contabilitate 1C",
+        "desc": "Lucrăm cu 1C și sisteme moderne. Date clare, rapoarte ușor de înțeles."
+      },
+      "outsourcing": {
+        "title": "Outsourcing complet",
+        "desc": "Externalizezi contabilitatea — economisești timp și costuri cu personal intern."
+      },
+      "consulting": {
+        "title": "Consultanță fiscală",
+        "desc": "Optimizare legală, răspunsuri clare la întrebări fiscale complexe."
+      }
+    }
+  },
+  "process": {
+    "title": "Cum lucrăm",
+    "subtitle": "Trei pași simpli până la contabilitate fără griji.",
+    "steps": {
+      "1": {
+        "title": "Sună sau completează formularul",
+        "desc": "Primele 10 minute sunt gratuite. Ne spui situația afacerii tale."
+      },
+      "2": {
+        "title": "Analizăm nevoile tale",
+        "desc": "Îți propunem pachetul potrivit și preț clar — fără surprize."
+      },
+      "3": {
+        "title": "Preluăm contabilitatea",
+        "desc": "Tu te concentrezi pe business. Noi ținem cifrele în ordine."
+      }
+    }
+  },
+  "offer": {
+    "title": "Primele 10 minute gratuite",
+    "desc": "Sună sau scrie-ne. Consultanța inițială e gratuită — fără obligații, fără presiune.",
+    "cta": "Programează consultația"
+  },
+  "form": {
+    "title": "Solicită consultație gratuită",
+    "subtitle": "Completează formularul — te contactăm în maxim 24 de ore.",
+    "name": "Nume",
+    "phone": "Telefon",
+    "email": "Email (opțional)",
+    "message": "Mesaj scurt",
+    "submit": "Trimite solicitarea",
+    "success": "Mulțumim! Te contactăm în maxim 24 de ore.",
+    "error": "A apărut o eroare. Sună-ne la +373 69 564 277.",
+    "namePlaceholder": "Ion Popescu",
+    "phonePlaceholder": "+373 ...",
+    "messagePlaceholder": "Am nevoie de contabilitate pentru SRL..."
+  },
+  "faq": {
+    "title": "Întrebări frecvente",
+    "items": {
+      "1": {
+        "q": "Cât costă serviciile de contabilitate?",
+        "a": "Pachetele încep de la 1000 MDL/lună, în funcție de volumul operațiunilor și numărul de angajați. Primele 10 minute de consultanță sunt gratuite."
+      },
+      "2": {
+        "q": "Cât de repede primesc răspuns?",
+        "a": "Ne angajăm să te contactăm în maxim 24 de ore de la solicitare, de obicei mult mai repede."
+      },
+      "3": {
+        "q": "Lucrați cu firme IT Park?",
+        "a": "Da, avem experiență cu companii IT Park Moldova și regimuri fiscale specifice."
+      },
+      "4": {
+        "q": "Pot lucra la distanță cu voi?",
+        "a": "Absolut. Majoritatea clienților noștri colaborează remote — documente digitale, comunicare online."
+      },
+      "5": {
+        "q": "Datele mele sunt confidențiale?",
+        "a": "100%. Toate informațiile financiare sunt tratate strict confidențial."
+      }
+    }
+  },
+  "footer": {
+    "tagline": "Contabilitate de încredere în Moldova",
+    "hours": "Luni–Vineri: 09:00–18:00",
+    "rights": "Toate drepturile rezervate."
+  },
+  "sticky": {
+    "call": "Sună"
+  },
+  "phone": "+373 69 564 277"
+}
