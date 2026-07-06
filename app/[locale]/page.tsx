@@ -9,7 +9,6 @@ import Showcase from "@/components/Showcase";
 import Process from "@/components/Process";
 import Testimonials from "@/components/Testimonials";
 import Pricing from "@/components/Pricing";
-import Offer from "@/components/Offer";
 import CtaBanner from "@/components/CtaBanner";
 import ContactForm from "@/components/ContactForm";
 import FAQ from "@/components/FAQ";
@@ -41,12 +40,11 @@ export default async function HomePage({ params: { locale } }: Props) {
         <TrustBar />
         <Stats />
         <Services />
+        <Process />
         <WhyUs />
         <Showcase />
-        <Process />
         <Testimonials />
         <Pricing />
-        <Offer />
         <CtaBanner />
         <ContactForm />
         <FAQ />
