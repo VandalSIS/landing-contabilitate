@@ -1,6 +1,6 @@
 "use client";
 
-import Image from "next/image";
+import Photo from "./Photo";
 import { motion, useReducedMotion } from "framer-motion";
 import { useTranslations } from "next-intl";
 import { images } from "@/lib/images";
@@ -22,22 +22,22 @@ export default function WhyUs() {
             className="relative"
           >
             <div className="relative aspect-[4/5] overflow-hidden rounded-3xl shadow-2xl">
-              <Image
+              <Photo
                 src={images.whyUsMain}
                 alt={t("imageAlt")}
                 fill
                 className="object-cover"
-                sizes="(max-width: 1024px) 100vw, 50vw"
+                sizes="(max-width: 1024px) 100vw, 560px"
               />
             </div>
             <div className="absolute -bottom-6 -right-4 hidden w-48 overflow-hidden rounded-2xl border-4 border-white shadow-xl md:block lg:-right-8">
               <div className="relative aspect-square">
-                <Image
+                <Photo
                   src={images.whyUsSecondary}
                   alt=""
                   fill
                   className="object-cover"
-                  sizes="192px"
+                  sizes="(max-width: 1024px) 40vw, 280px"
                 />
               </div>
             </div>

@@ -1,6 +1,6 @@
 "use client";
 
-import Image from "next/image";
+import Photo from "./Photo";
 import { motion, useReducedMotion } from "framer-motion";
 import { useTranslations } from "next-intl";
 import { PHONE } from "@/lib/constants";
@@ -13,7 +13,7 @@ export default function CtaBanner() {
 
   return (
     <section className="relative min-h-[360px] overflow-hidden py-24 md:min-h-[420px] md:py-32">
-      <Image
+      <Photo
         src={images.ctaBanner}
         alt=""
         fill

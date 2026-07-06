@@ -1,7 +1,7 @@
 "use client";
 
 import { motion, useReducedMotion } from "framer-motion";
-import Image from "next/image";
+import Photo from "./Photo";
 import { useTranslations } from "next-intl";
 import { PHONE, PHONE_DISPLAY } from "@/lib/constants";
 import { images } from "@/lib/images";
@@ -59,23 +59,23 @@ export default function Hero() {
           className="relative"
         >
           <div className="relative aspect-[4/5] overflow-hidden rounded-3xl shadow-2xl ring-1 ring-slate-200/50">
-            <Image
+            <Photo
               src={images.heroMain}
               alt="Contabilitate profesională Chișinău"
               fill
               className="object-cover"
               priority
-              sizes="(max-width: 768px) 100vw, 50vw"
+              sizes="(max-width: 768px) 100vw, 600px"
             />
           </div>
           <div className="absolute -bottom-5 -left-5 w-[45%] overflow-hidden rounded-2xl border-4 border-white shadow-xl">
             <div className="relative aspect-[4/3]">
-              <Image
+              <Photo
                 src={images.heroSecondary}
                 alt="Echipă contabilitate"
                 fill
                 className="object-cover"
-                sizes="200px"
+                sizes="(max-width: 768px) 45vw, 280px"
               />
             </div>
           </div>

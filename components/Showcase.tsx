@@ -1,6 +1,6 @@
 "use client";
 
-import Image from "next/image";
+import Photo from "./Photo";
 import { motion, useReducedMotion } from "framer-motion";
 import { useTranslations } from "next-intl";
 import { images } from "@/lib/images";
@@ -34,12 +34,12 @@ export default function Showcase() {
               transition={{ delay: i * 0.1 }}
               className="group relative aspect-[4/3] overflow-hidden rounded-2xl"
             >
-              <Image
+              <Photo
                 src={item.img}
                 alt={t(`items.${item.key}.title`)}
                 fill
                 className="object-cover transition-transform duration-500 group-hover:scale-105"
-                sizes="(max-width: 768px) 100vw, 50vw"
+                sizes="(max-width: 768px) 100vw, 560px"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-navy/90 via-navy/30 to-transparent" />
               <div className="absolute bottom-0 left-0 right-0 p-6 text-white">
